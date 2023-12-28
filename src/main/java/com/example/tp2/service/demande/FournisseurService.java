@@ -1,7 +1,7 @@
 package com.example.tp2.service.demande;
 
 import com.example.tp2.bean.demande.Fournisseur;
-import com.example.tp2.service.commande.dao.demande.FournisseurDao;
+import com.example.tp2.dao.demande.FournisseurDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

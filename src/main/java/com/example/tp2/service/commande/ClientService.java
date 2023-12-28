@@ -2,7 +2,7 @@ package com.example.tp2.service.commande;
 
 
 import com.example.tp2.bean.commande.Client;
-import com.example.tp2.service.commande.dao.commande.ClientDao;
+import com.example.tp2.dao.commande.ClientDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

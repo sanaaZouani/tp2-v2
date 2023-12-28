@@ -1,4 +1,4 @@
-package com.example.tp2.service.commande.dao.demande;
+package com.example.tp2.dao.demande;
 
 import com.example.tp2.bean.demande.PaiementDemande;
 import org.springframework.data.jpa.repository.JpaRepository;

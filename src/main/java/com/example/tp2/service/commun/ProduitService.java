@@ -1,7 +1,7 @@
 package com.example.tp2.service.commun;
 
 import com.example.tp2.bean.commun.Produit;
-import com.example.tp2.service.commande.dao.commun.ProduitDao;
+import com.example.tp2.dao.commun.ProduitDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

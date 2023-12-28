@@ -1,7 +1,7 @@
 package com.example.tp2.service.commun;
 
 import com.example.tp2.bean.commun.Compte;
-import com.example.tp2.service.commande.dao.commun.CompteDao;
+import com.example.tp2.dao.commun.CompteDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

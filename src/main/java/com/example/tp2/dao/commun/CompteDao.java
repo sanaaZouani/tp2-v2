@@ -1,4 +1,4 @@
-package com.example.tp2.service.commande.dao.commun;
+package com.example.tp2.dao.commun;
 
 import com.example.tp2.bean.commun.Compte;
 import org.springframework.data.jpa.repository.JpaRepository;
